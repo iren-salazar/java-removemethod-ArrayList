@@ -38,17 +38,8 @@ public class JavaUtilArrayList {
 		work.set(0, "Information Technology ");
 		work.set(1, "Doctor ");
 		work.set(2, "Civil Engineering");
-		
-		//Select elements in ArrayList using get() method 
-		String stranger = names.get(1);
-		String dessert = foods.get(1);
-		String foodie = foods.get(2);
-		String career = work.get(1);
-		
+
 		//print ArrayList
-		System.out.println("\r" + stranger + "is a " + career + "who likes to eat " + dessert + "and " + foodie + "\r");
-		System.out.println();
-		System.out.println("\"ArrayLists\"\r");
 		System.out.println(names);
 		System.out.println(foods);
 		System.out.println(work);
