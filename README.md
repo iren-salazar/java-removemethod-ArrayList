@@ -47,6 +47,7 @@ public class JavaUtilArrayList {
 		
 		//print ArrayList
 		System.out.println("\r" + stranger + "is a " + career + "who likes to eat " + dessert + "and " + foodie + "\r");
+		System.out.println();
 		System.out.println("\"ArrayLists\"\r");
 		System.out.println(names);
 		System.out.println(foods);
@@ -56,7 +57,5 @@ public class JavaUtilArrayList {
 		System.out.println("Remove element: " + removeThis);
 	}
 }
-
-
 
 
